@@ -21,4 +21,5 @@ Le'ts connect!
 &nbsp;
 
 Tech stack
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="CSS Logo" width="50" height="50"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="JavaScript Logo" width="50" height="50"/>
