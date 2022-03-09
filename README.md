@@ -22,6 +22,6 @@ Le'ts connect on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](htt
 
 🧰 Toolbox
 
-<img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/python.svg" alt="Python Logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/java.svg" alt="Java Logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/cpp.svg" alt="CPP Logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/swift.svg" alt="Swift Logo" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/python.svg" alt="Python Logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/java.svg" alt="Java Logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/cpp.svg" alt="CPP Logo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/swift.svg" alt="Swift Logo" width="80" height="80"/>
 
 ---
