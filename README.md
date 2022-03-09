@@ -20,6 +20,10 @@ Le'ts connect!
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abrashamchowdhury/)
 &nbsp;
 
-Tech stack
+---
+
+🧰 Toolbox
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/>
+
+---
