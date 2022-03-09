@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Le'ts connect!
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abrashamchowdhury/)
-&nbsp;!
-
-
-
-
+&nbsp;
