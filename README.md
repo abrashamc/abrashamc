@@ -26,6 +26,6 @@ Le'ts connect on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](htt
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/java.svg" alt="Java Logo" width="40" height="40"/> </n>
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/cpp.svg" alt="CPP Logo" width="40" height="40"/> </n>
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/swift.svg" alt="Swift Logo" width="80" height="40"/> </n>
-<img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/docker.svg" alt="Swift Logo" width="40" height="40"/> </n>
-<img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/ansible.svg" alt="Swift Logo" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/docker.svg" alt="Docker Logo" width="40" height="40"/> </n>
+<img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/ansible.svg" alt="Ansible Logo" width="40" height="40"/>
 ---
