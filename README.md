@@ -30,5 +30,7 @@ Le'ts connect on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](htt
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/ansible.svg" alt="Ansible Logo" width="40" height="40"/> </n>
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/jenkins.svg" alt="Jenkins Logo" width="40" height="40"/></n>
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/linux.svg" alt="Linux Logo" width="40" height="40"/> </n>
-<img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/aws.svg" alt="AWS Logo" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/aws.svg" alt="AWS Logo" width="40" height="40"/> </n>
+<img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/nginx.svg" alt="Nginx Logo" width="40" height="40"/> </n>
+<img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/mongodb.svg" alt="MongoDB Logo" width="40" height="40"/>
 ---
