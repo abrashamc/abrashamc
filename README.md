@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Social
 
-Le'ts connect on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abrashamchowdhury/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abrashamchowdhury/)
 &nbsp;
 
 ---
