@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 
 ---
 
+
+<h2> Hello, and welcome!</h2>
+<a href= "https://www.linkedin.com/in/abrasham-chowdhury">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+</a>
+<br>
+<br>
+
+<img width="45%" align="right" alt="Github" src="./images/aws.svg" />
+
 ## The Deets
 
 ### Who I am
@@ -46,12 +56,3 @@ Terraform, Serverless, Kubernetes and all that jazz
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/nginx.svg" alt="Nginx Logo" width="40" height="30"/> </n>
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/mongodb.svg" alt="MongoDB Logo" width="40" height="40"/>
 ---
-
-<h2> Hello, and welcome!</h2>
-<a href= "https://www.linkedin.com/in/abrasham-chowdhury">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-</a>
-<br>
-<br>
-
-<img width="45%" align="right" alt="Github" src="./images/aws.svg" />
