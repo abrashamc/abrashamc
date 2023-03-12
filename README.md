@@ -35,14 +35,8 @@ Here are some ideas to get you started:
 ---
 
 <h2> Hello, and welcome!</h2>
-<a href= "https://iq.aws/e/bryantbiggs">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
-</a>
-<a href= "https://www.linkedin.com/in/bryantbiggs/">
+<a href= "https://www.linkedin.com/in/abrasham-chowdhury">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-</a>
-<a href= "mailto:bryantbiggs@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 <br>
 <br>
