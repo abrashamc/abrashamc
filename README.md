@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h2> Hello, and welcome!</h2>
+<h2> 👋 Hello, and welcome!</h2>
 <a href= "https://www.linkedin.com/in/abrasham-chowdhury">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
