@@ -41,11 +41,9 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<img width="45%" align="right" alt="Github" src="./imgs/aws.svg" />
+<img width="45%" align="right" alt="Github" src="./images/aws.svg" />
 
 ## The Deets
-
-<!-- #### 👉 Available for consultation via the [AWS IQ](https://iq.aws/e/bryantbiggs) or direct C2C 🚀 -->
 
 ### Who I am
 
@@ -56,7 +54,7 @@ An engineer passionate about cloud infrastructure, serverless technologies, and 
 Terraform, Serverless, Kubernetes and all that jazz
 
 <div align="center">
-<img width="75%" alt="Terraform" src="./imgs/terraform2.png" />
+<img width="75%" alt="Terraform" src="./images/terraform2.png" />
 </div>
 
 <!-- Just a hack for a thin line  -->
