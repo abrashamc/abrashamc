@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <a href= "https://www.linkedin.com/in/abrasham-chowdhury">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
+<a href="mailto:abrashamc@gmail.com?subject=%5BGitHub%5D%20%3Cadd%20a%20subject%20please%3E">
+  <img float="left" alt="Abrasham's Gmail" width="40px" src="https://img.icons8.com/color/344/gmail-new.png" />
+ </a>
 <br>
 <br>
 
