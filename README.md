@@ -51,7 +51,7 @@ Terraform, Ansible, Kubernetes, Serverless and all that jazz
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/ansible.svg" alt="Ansible Logo" width="40" height="40"/> </n>
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/jenkins.svg" alt="Jenkins Logo" width="40" height="40"/></n>
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/linux.svg" alt="Linux Logo" width="40" height="40"/> </n>
-<img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/aws.svg" alt="AWS Logo" width="40" height="40"/> </n>
+<img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="40" height="40"/> </n>
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/nginx.svg" alt="Nginx Logo" width="40" height="30"/> </n>
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/mongodb.svg" alt="MongoDB Logo" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/terraformio-ar21.svg" alt="Terraform Logo" width="80" height="40"/>
