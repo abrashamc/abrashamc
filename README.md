@@ -35,7 +35,7 @@ An engineer passionate about DevOps and IaC
 
 ### What I do
 
-Terraform, Ansible, Kubernetes, Serverless and all that jazz
+Terraform, Ansible, Docker, Kubernetes, Serverless and all that jazz
 
 <div align="center">
 <img width="75%" alt="Terraform" src="./images/terraform2.png" />
