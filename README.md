@@ -12,12 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Social
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/abrasham-chowdhury/)
-&nbsp;
 
 ---
+
+## The Deets
+
+### Who I am
+
+An engineer passionate about cloud infrastructure, serverless technologies, and helping folks create secure, scalable infrastructure
+
+### What I do
+
+Terraform, Serverless, Kubernetes and all that jazz
+
+<div align="center">
+<img width="75%" alt="Terraform" src="./images/terraform2.png" />
+</div>
+
+<!-- Just a hack for a thin line  -->
+##
 
 ### Stack
 
@@ -42,20 +55,3 @@ Here are some ideas to get you started:
 <br>
 
 <img width="45%" align="right" alt="Github" src="./images/aws.svg" />
-
-## The Deets
-
-### Who I am
-
-An engineer passionate about cloud infrastructure, serverless technologies, and helping folks create secure, scalable infrastructure
-
-### What I do
-
-Terraform, Serverless, Kubernetes and all that jazz
-
-<div align="center">
-<img width="75%" alt="Terraform" src="./images/terraform2.png" />
-</div>
-
-<!-- Just a hack for a thin line  -->
-##
