@@ -41,7 +41,7 @@ Terraform, Ansible, Kubernetes, Serverless and all that jazz
 <!-- Just a hack for a thin line  -->
 ##
 
-### Stack
+### My Stack
 
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/python.svg" alt="Python Logo" width="40" height="40"/> </n>
 <img src="https://raw.githubusercontent.com/abrashamchowdhury/abrashamchowdhury/main/images/java.svg" alt="Java Logo" width="40" height="40"/> </n>
