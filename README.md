@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 <a href="mailto:abrashamc@gmail.com?subject=%5BGitHub%5D%20%3Cadd%20a%20subject%20please%3E">
   <img float="left" alt="Abrasham's Gmail" width="40px" src="https://img.icons8.com/color/344/gmail-new.png" />
  </a>
+ <a href= "mailto:abrashamc@gmail.com?subject=%5BGitHub%5D%20%3Cadd%20a%20subject%20please%3E">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
+</a>
 <br>
 <br>
 
