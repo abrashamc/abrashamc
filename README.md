@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ---
 
-
 <h2> Hello, and welcome!</h2>
 <a href= "https://www.linkedin.com/in/abrasham-chowdhury">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
@@ -33,7 +32,7 @@ An engineer passionate about cloud infrastructure, serverless technologies, and 
 
 ### What I do
 
-Terraform, Serverless, Kubernetes and all that jazz
+Terraform, Ansible, Kubernetes, Serverless and all that jazz
 
 <div align="center">
 <img width="75%" alt="Terraform" src="./images/terraform2.png" />
