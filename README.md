@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### Who I am
 
-An engineer passionate about cloud infrastructure, serverless technologies, and helping folks create secure, scalable infrastructure
+An engineer passionate about cloud infrastructure, serverless technologies, and helping teams create secure, scalable infrastructure
 
 ### What I do
 
