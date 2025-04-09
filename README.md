@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 ---
 
 <h2> 👋 Hello, and welcome!</h2>
-<a href= "https://www.linkedin.com/in/abrashamc">
+<!-- <a href= "https://www.linkedin.com/in/abrashamc">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
 </a>
 <a href= "mailto:abrashamc@gmail.com?subject=%5BGitHub%5D%20%3Cadd%20a%20subject%20please%3E">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"/>
-</a>
+</a> -->
 <br>
 <br>
 
